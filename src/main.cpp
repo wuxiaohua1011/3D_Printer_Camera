@@ -4,8 +4,8 @@
 
 #define LED_BUILTIN 4
 
-const char* WIFI_SSID = "NETGEAR78";
-const char* WIFI_PASS = "wuxiaohua1011";
+const char* WIFI_SSID = "YOUR NETWORK SID";
+const char* WIFI_PASS = "YOUR NETWORK PASSWORD";
 
 WebServer server(80);
 
